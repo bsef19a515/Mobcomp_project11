@@ -2,6 +2,18 @@
     <string name="app_name">My Application10</string>
     <string name="quiz">Quizzo</string>
     <string name="start">Start Quiz Now</string>
+    <string name="qs">Questions: 1/n</string>
+    <string name="time">1:00</string>
+    <string name="score">Score:0</string>
+    <string name="ques">Questions to be asked</string>
+    <string name="nxt">Next</string>
+    <string name="opt1">Option1</string>
+    <string name="opt2">Option2</string>
+    <string name="opt3">Option3</string>
+
+
+
+
 
 
 </resources>
